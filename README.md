@@ -8,7 +8,7 @@ title: du plo
 Wertschätzung im Schulalltag: Deine Schüler*innen stehen vor eine Herausforderung. Zeig' Ihnen, dass du mitfühlst, Zuspruch gibst und sie siehst!
 
 # du plo
-- [PDF zum Herunterladen](https://cloud.rpi-virtuell.de/s/pSeSBmm68L9PJHm)
+- [PDF zum Herunterladen](https://git.rpi-virtuell.de/joerglohrer/du-ermutigung/src/branch/main/schaffst%20das%21%21%21.pdf)
 - docx zum Bearbeiten herunterladen
 - Canva Link zum Editieren
 
