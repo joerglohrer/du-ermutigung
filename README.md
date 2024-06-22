@@ -9,8 +9,8 @@ title: du plo - du ermutigung
 Wertschätzung im Schulalltag: Deine Schüler*innen stehen vor einer Herausforderung. Zeig' Ihnen, dass du mitfühlst, Zuspruch gibst und sie siehst!
 
 # du plo - Du-Ermutigung
-- [PDF zum Herunterladen](https://cloud.rpi-virtuell.de/s/pSeSBmm68L9PJHm)
-- docx zum Bearbeiten herunterladen
+- [PDF zum Herunterladen](https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/src/branch/main/schaffst%20das%21%21%21.pdf)
+- [docx zum Bearbeiten herunterladen](https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/schaffst%20das%21%21%21.docx)
 - Canva Link zum Editieren
 
 ![](https://pad.gwdg.de/uploads/b42882d2-88ed-4202-85f5-d01283a581ef.jpg)
