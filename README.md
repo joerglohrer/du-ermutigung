@@ -2,6 +2,7 @@
 author: Corinna Ullmann
 Lizenz: CC 0
 title: du plo - du ermutigung
+i
 
 ---
 
@@ -17,8 +18,7 @@ Wertschätzung im Schulalltag: Deine Schüler*innen stehen vor einer Herausforde
 - [docx zum Bearbeiten herunterladen](https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/schaffst%20das%21%21%21.docx)
 - [Canva Link zum Editieren](https://www.canva.com/design/DAGHw9IoR_A/ec2fW0c-pjzzP7aNBm3fBg/edit?utm_content=DAGHw9IoR_A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![](https://pad.gwdg.de/uploads/b42882d2-88ed-4202-85f5-d01283a581ef.jpg)
-
+![du-ermutigung Bild CC0](https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/du-schaffst-das-uebersicht.jpg)
 
 
 Weitere Sätze: 
