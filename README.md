@@ -1,7 +1,31 @@
 ---
-author: Corinna Ullmann
-Lizenz: CC 0
-title: du plo - du ermutigung
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: du ermutigung
+description: Wertschätzung im Schulalltag. du-ermutigung mit Vorlage für Schokoriegel
+license: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+id: https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung
+creator:
+  - givenName: Corinna
+    familyName: Ullmann
+    type: Person
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n02
+  - https://w3id.org/kim/hochschulfaechersystematik/n03
+  - https://w3id.org/kim/hochschulfaechersystematik/n053
+  - https://w3id.org/kim/hochschulfaechersystematik/n086
+  - https://w3id.org/kim/hochschulfaechersystematik/n544
+  - https://w3id.org/kim/hochschulfaechersystematik/n545
+image: https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/du-schaffst-das-uebersicht.jpg
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_2
+  - https://w3id.org/kim/educationalLevel/level_3
+  - https://w3id.org/kim/educationalLevel/level_4
+  - https://w3id.org/kim/educationalLevel/level_A
+  - https://w3id.org/kim/educationalLevel/level_6
+datePublished: '2024-06-24'
 
 ---
 
