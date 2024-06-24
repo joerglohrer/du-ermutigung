@@ -5,10 +5,8 @@ title: du plo - du ermutigung
 
 ---
 
-:::warning
-:floppy_disk:   Bearbeitungsstand immer aktuell [hier im git](https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung) speichern
-:memo: Untenstehende Arbeitskopie zur kollaborativen Bearbeitung in Echtzeit [hier als HedgeDoc](https://pad.gwdg.de/Yd16DZtORYyr6F3NZZ4drA?both)
-:::
+> :floppy_disk:   Bearbeitungsstand immer aktuell [hier im git](https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung) speichern
+> :memo: Untenstehende Arbeitskopie zur kollaborativen Bearbeitung in Echtzeit [hier als HedgeDoc](https://pad.gwdg.de/Yd16DZtORYyr6F3NZZ4drA?both)
  
 <p class="attribution">"<a target="_blank" rel="noopener noreferrer" href="https://www.inaturalist.org/photos/71812633">du-ermutigung</a>" von <a target="_blank" rel="noopener noreferrer" href="https://www.inaturalist.org/users/2831535">Corinna Ullmann</a> Lizenz: <a target="_blank" rel="noopener noreferrer" href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0 1.0 <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" style="height: 1em; margin-right: 0.125em; display: inline;"></img></a>.</p>
 
