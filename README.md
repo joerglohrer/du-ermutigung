@@ -31,7 +31,6 @@ datePublished: '2024-06-24'
 > :floppy_disk:   Bearbeitungsstand immer aktuell [hier im git](https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung) speichern
 > :memo: Untenstehende Arbeitskopie zur kollaborativen Bearbeitung in Echtzeit [hier als HedgeDoc](https://pad.gwdg.de/Yd16DZtORYyr6F3NZZ4drA?both)
 > :link: Kurzlink: https://comenius.de/du-ermutigung
-> <img src="https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/qrcode.svg" style="height: 7em;  display: inline;"></img>
 
 Wertschätzung im Schulalltag: Deine Schüler*innen stehen vor einer Herausforderung. Zeig' Ihnen, dass du mitfühlst, Zuspruch gibst und sie siehst!
 
