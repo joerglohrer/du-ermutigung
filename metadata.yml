@@ -1,0 +1,19 @@
+---
+name: "du-ermutigung"
+creator:
+  - givenName: "Jörg"
+    familyName: "Lohrer"
+  - givenName: "Corinna"
+    familyName: "Ullmann"
+publisher:
+  givenName: "Corinna"
+  familyName: "Ullmann"
+keywords:
+  - "duplo"
+  - "Ermutigung"
+description: "Wertschätzung im Schulalltag"
+inLanguage: "de"
+version: 1.0
+license: "https://creativecommons.org/publicdomain/zero/1.0/"
+learningResourceType: "Exercise"
+creativeWorkStatus: "Published"
