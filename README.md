@@ -10,6 +10,20 @@ creator:
   - givenName: Corinna
     familyName: Ullmann
     type: Person
+    affiliation:
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
+      type: Organization
+  - givenName: Jörg
+    familyName: Lohrer
+    id: https://orcid.org/0000-0002-9282-0406
+    type: Person
+    affiliation:
+      name: Comenius-Institut
+      id: https://ror.org/025e8aw85
+      type: Organization
+inLanguage:
+  - de
 about:
   - https://w3id.org/kim/hochschulfaechersystematik/n0
   - https://w3id.org/kim/hochschulfaechersystematik/n02
@@ -18,7 +32,11 @@ about:
   - https://w3id.org/kim/hochschulfaechersystematik/n086
   - https://w3id.org/kim/hochschulfaechersystematik/n544
   - https://w3id.org/kim/hochschulfaechersystematik/n545
-image: https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/du-schaffst-das-uebersicht.jpg
+image: >-
+  https://git.rpi-virtuell.de/Comenius-Institut/du-ermutigung/raw/branch/main/du-schaffst-das-uebersicht.jpg
+learningResourceType:
+  - https://w3id.org/kim/hcrt/lesson_plan
+  - https://w3id.org/kim/hcrt/worksheet
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_2
   - https://w3id.org/kim/educationalLevel/level_3
